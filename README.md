@@ -1,13 +1,13 @@
-# Will Church - Full Stack Developer
+# Will Church - Software Engineer
 ## EMPLOYMENT 
-### Channel Key — Full Stack Developer 
+### Channel Key — Software Engineer 
 **JAN 2021 - PRESENT** Developing a Next.js app to display reports from a database of millions of Amazon orders. Focusing on global state user interactions and preferences. Transforming data. Working across teams to develop solutions and improve UX.
 
 ### Polk County Schools — Teacher
-**OCT 2015 - JAN 2021** Fifth grade chair, educated students in math and science, developed hands-on experiments to facilitate their learning.
+**OCT 2015 - JAN 2021** Fifth grade chair, educated students in math and science, developed hands-on experiments to facilitate retention of target information, implemented SciPad program in classroom with 1:1 technology, improved student learning gains.
 
 ### U.S. Army — Soldier, Operations Specialist
-**JUN 1999 - JUN 2006** Maintained and operated military computer and radio networks pertaining to airspace operations. Served as liaison between US departments and the Korean public.
+**JUN 1999 - JUN 2006** Maintained and operated military computer codebase, framework and radio networks pertaining to airspace operations.  Served as liaison between US departments and the Korean public.
 
 ## EDUCATION 
 ### 10x Code Camp
