@@ -13,9 +13,9 @@
 ### 10x Code Camp
 **MAY 2020 - AUG 2020** Graduated top in class from coding bootcamp, completing all coursework and extra credit. Programmed 2 full-stack web apps: Kombat (a simulated combat engine for rpg and adventure gaming) and White Bear (a note-taking app utilizing memory techniques and a spaced repetition algorithm).
 
-### Eastern Michigan University, Ypsilanti, MI
+### Eastern Michigan University
 **SEP 2008 - JUN 2015** Graduated with a Bachelor of Science in Elementary Education. Worked part-time to pay the way through college.
 
-### Washtenaw Community College, Ypsilanti MI
+### Washtenaw Community College
 **SEP 2006 - MAY 2008** Graduated with an Associates Degree and transferred to EMU.
 
