@@ -18,22 +18,3 @@
 
 ### Washtenaw Community College
 **SEP 2006 - MAY 2008** Graduated with an Associates Degree and transferred to EMU.
-
-## TECHNOLOGIES
-JavaScript, TypeScript, React, Redux, Node.js, Next.js, Express, SQL, Git, Gatsby
-
-HTML, CSS, SCSS, SASS, Bootstrap, TailwindCSS
-
-jQuery, Lodash, Axios, React Router, GraphQL
-
-MySQL, MariaDB, PostgreSQL, MongoDB
-
-AWS, Amazon RDS, Amazon S3, MongoDB Atlas, Gatsby Cloud, Vercel, Heroku
-
-npm, Yarn, Homebrew, Prettier, ESLint
-
-Slack, Trello, Jira, Github, Basecamp, Postman, Zoom
-
-Google Docs, Sheets, Forms, Drive, Meet
-
-Microsoft Outlook, Word, Excel, SharePoint, Teams
